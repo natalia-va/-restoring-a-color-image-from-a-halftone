@@ -1,0 +1,4 @@
+﻿  homework_1_image_an.cpp
+C:\Users\natal\source\repos\homework_1_image_an\homework_1_image_an\homework_1_image_an.cpp(11,61): warning C4244: +=: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\natal\source\repos\homework_1_image_an\homework_1_image_an\homework_1_image_an.cpp(14,14): warning C4244: return: преобразование "unsigned __int64" в "double", возможна потеря данных
+  homework_1_image_an.vcxproj -> C:\Users\natal\source\repos\homework_1_image_an\Debug\homework_1_image_an.exe
